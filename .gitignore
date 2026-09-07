@@ -1,0 +1,12 @@
+# Composer dependencies (Dompdf etc.) — installed via "composer require dompdf/dompdf"
+/vendor/
+composer.lock
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local env files (if you add one later for DB credentials)
+.env
